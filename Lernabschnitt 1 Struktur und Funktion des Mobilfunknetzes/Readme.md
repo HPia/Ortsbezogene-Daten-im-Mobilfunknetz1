@@ -1,19 +1,19 @@
-H1 Beschreibung Interaktives Puzzle 
+# Beschreibung Interaktives Puzzle 
 
 
-H2 Was soll gelernt werden?
+## Was soll gelernt werden?
 
-H2 Wozu soll es (an dieser Stelle) gelernt werden?
+## Wozu soll es (an dieser Stelle) gelernt werden?
 
-H2 Hintergrundwissen 
+## Hintergrundwissen 
 
-H2 Vorasusetzungen (techn./ organisatorisch)
+## Vorasusetzungen (techn./ organisatorisch)
 
-H2 Benötigte Vorkenntnisse
+## Benötigte Vorkenntnisse
 
-H2 Einflussfaktoren
+## Einflussfaktoren
 
-H2 Unterrichtsmethoden
+## Unterrichtsmethoden
 
-H2 Diagnose
+## Diagnose
 
